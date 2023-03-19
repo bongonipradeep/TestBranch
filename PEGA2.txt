@@ -1,0 +1,60 @@
+Different versions of PEGA Robotics 19.1.98
+
+what is the differnece between 2 versions
+
+Differnnt types of adapters
+
+Difference between RPA and RDA(Real time example)
+
+Implemention wise what is the difference between RPA and RDA
+
+Technically implementation wise how do you implement RPA and how RDA(.os)
+
+How rPA will start how to start BOT
+
+In Technical Implementation what kind of founctions,Controls used to RPA start{scedulers,disribution servers,robot manager}
+
+How RPA implemented
+
+How to develop application with firefox
+
+bongoni.pradeep24
+bongoni.pradeepk24@gmail.com
+
+8121746169
+
+Pega robotic manager
+
+How to set config files
+
+how to deploy same automation package in multiple Envioronments(how many config files){Run time config file it is XML file we will mention environment}
+
+while running automation some unexpected popup will come how to handle it using 
+
+How to write own logs in u r automation(some control available ){using message manifest custom logs}
+
+open Face book and login the application and click on Like how to do it technically(Explain all scenarios haapy path and error 
+scenrio)21.00
+
+
+i AM Working for Nomura client which is financial company whcih exactly depends on Credit cards and stacke holder I developed whcich deals with customer credit reports in which we 
+downloaded customer credit reports if not available it chrcks in multiple paged of application  customer credit reports and check customers credibility baded on user inputs and send mail 
+regarding there produc
+
+
+040 46999999/00
+
+Pega Certified Robotics System Architect 
+
+
+selcet element- match rules-extraced data- use keys-get clones menthod()-proxy-for loop
+
+mainframe application -windows adapter-path
+
+Text adapter - path dll
+session id
+extractiob-region
+fields-input
+ Table partial screen
+
+
